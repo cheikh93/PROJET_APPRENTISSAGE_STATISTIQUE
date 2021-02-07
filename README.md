@@ -1,0 +1,2 @@
+# PROJET_APPRENTISSAGE_STATISTIQUE
+projet individuel
